@@ -1,0 +1,13 @@
+#hero {
+  height: 50vh;
+  width: 100%;
+  background: url("../Asset/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 2px 2px black;
+  background-
+}
+
+.sub-title {
+  border-bottom: 1px solid black;
+}
